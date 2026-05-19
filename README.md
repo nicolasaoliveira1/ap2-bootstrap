@@ -6,7 +6,7 @@ Projeto Bootstrap 5 para site de academia.
 Site institucional de academia (GymFit), com foco em apresentação de planos, benefícios e contato.
 
 ## Link do projeto publicado no GitHub Pages
-Pendente: ainda não publicado.
+https://nicolasaoliveira1.github.io/ap2-bootstrap/
 
 ## Explicação da estrutura do projeto
 - index.html: página inicial com apresentação e destaques.
